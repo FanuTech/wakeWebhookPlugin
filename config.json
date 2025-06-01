@@ -13,7 +13,7 @@
       "type": "git",
       "url":  "https://github.com/FanuTech/wakeWebhookPlugin"
     },
-    "versionHistoryUrl": "",
+    "versionHistoryUrl": "https://api.github.com/repos/FanuTech/wakeWebhookPlugin/tags",
     "meshCentralCompat": ">=0.7.29"
   }
   
