@@ -1,0 +1,19 @@
+{
+    "name":          "Wake-Webhook Plugin",
+    "shortName":     "wakeWebhook",
+    "version":       "0.1.0",
+    "author":        "Your Name",
+    "description":   "Replaces the built-in Wake-Up action with a JSON webhook.",
+    "hasAdminPanel": true,
+    "homepage":      "https://your-repo-or-docs",
+    "changelogUrl":  "",
+    "configUrl":     "",
+    "downloadUrl":   "",
+    "repository": {
+      "type": "git",
+      "url":  ""
+    },
+    "versionHistoryUrl": "",
+    "meshCentralCompat": ">=0.7.29"
+  }
+  
