@@ -6,9 +6,9 @@
     "description":   "Replaces the built-in Wake-Up action with a JSON webhook.",
     "hasAdminPanel": true,
     "homepage":      "https://github.com/FanuTech/wakeWebhookPlugin",
-    "changelogUrl":  "",
-    "configUrl":     "",
-    "downloadUrl":   "",
+    "changelogUrl":  "https://github.com/FanuTech/wakeWebhookPlugin/raw/refs/heads/main/changelog.md",
+    "configUrl":     "https://raw.githubusercontent.com/FanuTech/wakeWebhookPlugin/refs/heads/main/config.json",
+    "downloadUrl":   "https://github.com/FanuTech/wakeWebhookPlugin/archive/refs/heads/main.zip",
     "repository": {
       "type": "git",
       "url":  "https://github.com/FanuTech/wakeWebhookPlugin"
